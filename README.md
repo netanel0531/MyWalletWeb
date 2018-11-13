@@ -1,2 +1,0 @@
-# MyWalletWeb
-Created with CodeSandbox
